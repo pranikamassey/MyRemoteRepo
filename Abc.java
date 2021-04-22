@@ -1,5 +1,8 @@
 public class Abc{
-	public static void main(args){
+	public void demo(){
 	System.out.println("hiiii");
+}
+	public void test(){
+System.out.println("hiiii");
 }
 }
